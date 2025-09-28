@@ -1,0 +1,7 @@
+Project Description:
+Scan2Profile is a digital student ID platform
+that uses a QR code to instantly access a student’s profile.
+It securely stores academic details, contact info, skills, achievements, and 
+social links.
+This mobile-friendly solution makes sharing, verification, and networking fast,
+convenient, and paper-free.
